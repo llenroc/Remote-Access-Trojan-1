@@ -1,4 +1,4 @@
-# Remote Access Control
+# Remote Access Trojan - Backdoor
 
 - Features:
   - [x] Set up client and server model
