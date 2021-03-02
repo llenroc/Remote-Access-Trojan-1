@@ -1,8 +1,7 @@
 # DISCLAIMER
 
-***strong***Only use for education/research purpose only. The author take NO responsibility and/or liability for how you choose to use any of tools/source code/files provided. By using this tool or any files included, you understand that you are AGREEING TO USE AT YOUR OWN RISK.
-This tool only designed to be used in pentesting labs or with explicit consent from the owner of the property being tested.
-***strong***
+***Only use for education/research purpose only. The author take NO responsibility and/or liability for how you choose to use any of tools/source code/files provided. By using this tool or any files included, you understand that you are AGREEING TO USE AT YOUR OWN RISK.
+This tool only designed to be used in pentesting labs or with explicit consent from the owner of the property being tested***
 
 -------------------------------------------------------------------
 # Remote Access Trojan - Backdoor
