@@ -3,7 +3,7 @@ import os
 import subprocess
 
 target_host = ""
-target_port = 80
+target_port = 8080
 
 client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
